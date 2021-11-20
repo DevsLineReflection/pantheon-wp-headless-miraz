@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pantheon-decoupled-frontend-master"
+		},
+		{
+			"path": "../lr-docker-test"
+		},
+		{
+			"path": "../pantheon-decoupled-backend-main"
+		}
+	],
+	"settings": {}
+}
