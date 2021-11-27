@@ -4,9 +4,12 @@ WORKDIR /app
 
 COPY package*.json ./
 
-RUN yarn
+RUN npm i
 
 COPY . ./
+
+RUN npm run build
+
 
 EXPOSE 9920
 
